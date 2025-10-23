@@ -1,2 +1,1 @@
-let sum = 7
-console.log(sum);
+const elBody = document.querySelector(".sinov")
